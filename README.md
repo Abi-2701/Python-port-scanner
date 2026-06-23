@@ -20,17 +20,6 @@ This project demonstrates fundamental concepts of network security, port enumera
 * Socket Programming
 * Datetime Module
 
-## Project Structure
-
-```text
-python-port-scanner/
-│
-├── port_scanner.py
-├── requirements.txt
-├── README.md
-└── screenshots/
-    └── output.png
-```
 
 ## Installation
 
